@@ -17,3 +17,7 @@ This is a deployment test...
 ## How to contribute
 
 This is a contribute test...
+
+## Copyright
+
+adasdada
